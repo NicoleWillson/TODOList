@@ -17,8 +17,8 @@ code {
 .todo-list{
     background: rgb(128, 63, 202);
     text-align: center;
-    border-radius: 6px;
-    padding: 5px;
+    border-radius: 16px;
+    padding: 25px;
     max-width: 450px;
 }
 .todo{
